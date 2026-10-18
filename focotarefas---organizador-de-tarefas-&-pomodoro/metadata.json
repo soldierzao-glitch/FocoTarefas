@@ -1,0 +1,6 @@
+{
+  "name": "FocoTarefas - Organizador de Tarefas & Pomodoro",
+  "description": "Organizador de tarefas visual com seções destacadas em amarelo, controle de tarefas concluídas, notas de andamento, cronômetro Pomodoro com alarme sonoro e modo escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
